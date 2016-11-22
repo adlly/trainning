@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">tranning</string>
+    <string name="edit_text">请输入数据</string>
+    <string name="btn">click</string>
 </resources>
