@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+       res/values-语言(Locale简称,一般小写,如: en, zh, )-r国家简称(大写 CN, US, UK, JP等) 这是文件夹名字
+       对应下面的资源文件就是 对应国别的资源文件; 名字可以不限制;
+       因为不同的资源, 定义的字段不一样;
+       这些都可以定义的, 但是 在string里面尽量定义 string array资源
+   -->
+</resources>
